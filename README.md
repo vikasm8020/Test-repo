@@ -1,2 +1,2 @@
 # Test-repo
-testing purpose
+git repository for git command demonstration
